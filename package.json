@@ -3,7 +3,7 @@
      "name": "test-jspm",
     "version": "0.1",
     "description": "A simple JSPM test package",
-    "main": "src/static/main.js",
+    "main": "static/main.js",
     "dependencies": {
       "grunt": "^0.4"
     },
