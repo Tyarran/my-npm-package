@@ -3,12 +3,12 @@
      "name": "test-jspm",
     "version": "0.1",
     "description": "A simple JSPM test package",
-    "main": "static/main.js",
+    "main": "main.js",
     "dependencies": {
       "grunt": "^0.4"
     },
     "directories": {
-      "baseURL": "static"
+      "baseURL": "src/static"
     },
     "dependencies": {
       "bootstrap": "github:twbs/bootstrap@^3.3.6",
